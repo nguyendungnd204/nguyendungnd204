@@ -16,5 +16,5 @@
 
 ## 📬 How to Reach Me
 - 📧 Email: [ngvandungnvd204@gmail.com](mailto:ngvandungnvd204@gmail.com)
-- 🔗 LinkedIn: [Nguyen Van Dung](#https://www.linkedin.com/in/d%C5%A9ng-nguy%E1%BB%85n-43723b336/)
+- 🔗 LinkedIn: [Nguyen Van Dung](https://www.linkedin.com/in/d%C5%A9ng-nguy%E1%BB%85n-43723b336/)
 
