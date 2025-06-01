@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Dung!
 
 ## 🌟 About Me
-- 💼 Currently working as: backend web developer
+- 💼 Currently working as: Fullstack Developer
 - 🎓 Studying at Hanoi University of Civil Engineering
 - 🌍 Based in: Vietnam
 
 ## 📚 Skills
 - **Programming Languages:** JavaScript, TypeScript, Java, ...
-- **Frameworks & Tools:** Node.js, Express.js, NestJS, ...
+- **Frameworks & Tools:** Node.js, Express.js, Nest.Js, React.Js ...
 - **Other Skills:** Postgres, SQL Server, Mongo DB, Git, Docker ...
 
 ## 🌱 What I'm Learning
